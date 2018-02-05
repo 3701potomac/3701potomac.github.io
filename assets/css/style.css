@@ -28,6 +28,15 @@ a:hover {
 	color: #C4C4C4;
 }
 
+/* CUSTOMS */
+h1.title {
+	text-shadow: 2px 2px 2px #aaa;
+}
+
+ul {
+	text-align: left;
+}
+
 /* ---------------------------------------------- /*
  * Typography
 /* ---------------------------------------------- */
@@ -42,10 +51,6 @@ h1 {
 	font-size: 64px;
 	font-weight: 700;
 	margin: 5px 0 15px;
-}
-
-h1.title {
-	text-shadow: 2px 2px #aaa;
 }
 
 h2 {
